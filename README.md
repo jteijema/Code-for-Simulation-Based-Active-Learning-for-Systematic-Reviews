@@ -18,7 +18,7 @@ Utrecht University, P.O. Box 80.140, 3508TC, Utrecht, The Netherlands; Tel.: +31
 ## Examples:
 ![Image](/Code/Papers/Distribution%20of%20Datasets%20Used%20for%20Simulations.png)
 ![Image](/Code/Papers/Actual%20Availability%20of%20Reported%20Resources.png)
-![Image](Code/Datasets/Distribution%20of%20Log(Number%20of%20Records).png)
+![Image](Code/Datasets/Density%20Plot%20of%20Log(Number%20of%20Records).png)
 
 ## License
 
