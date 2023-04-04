@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Teijema
+    given-names: Jelle
+    orcid:  https://orcid.org/0000-0001-9282-4311 
+  - family-names: Van de Schoot
+    given-names: Rens
+    orcid:  https://orcid.org/0000-0001-7736-2091
+  - family-names: Bagheri
+    given-names: Ayoub
+    orcid:  https://orcid.org/0000-0001-6366-2173
+title: "Code for Simulation-Based Active Learning for Systematic Reviews: A Systematic Review of the Literature"
+version: -
+doi: -
+date-released: -
