@@ -11,6 +11,6 @@ authors:
     given-names: Ayoub
     orcid:  https://orcid.org/0000-0001-6366-2173
 title: "Code for Simulation-Based Active Learning for Systematic Reviews: A Systematic Review of the Literature"
-version: -
-doi: -
-date-released: -
+version: v1.0
+doi: 10.5281/zenodo.8095084
+date-released: 2023-06-29
