@@ -1,5 +1,5 @@
 # Code for Simulation-Based Active Learning for Systematic Reviews: A Systematic Review of the Literature
-[![DOI](https://zenodo.org/badge/DOI/-.svg)](https://doi.org/-)
+[![DOI](https://zenodo.org/badge/DOI/10.17605/OSF.IO/T9HGM.svg)](https://doi.org/10.17605/OSF.IO/T9HGM)
 
  Code visualization notebooks for "Simulation-Based Active Learning for Systematic Reviews: A Systematic Review of the Literature"
  
