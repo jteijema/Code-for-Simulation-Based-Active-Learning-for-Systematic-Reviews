@@ -6,7 +6,7 @@
 This repository contains code used for the visualization of data for an Active
 learning research paper. Visualizations are done using Python and MatPlotLib.
 
-This repository contains the information for both the original search and the Search updates.
+This repository contains the information for both the original search and the search updates.
 
 ## Abstract
 This study investigated the utility of active learning in accelerating the systematic review process. We reviewed literature from 2006 onwards, using the open-source software ASReview, and selected 48 relevant articles out of 1548, while incorporating 208 out of 305 collected datasets. Our analysis overwhelmingly recommends active learning for improving the efficiency of the screening phase in systematic reviews, despite some limitations. Future research should focus on standardizing metrics, promoting open data, and diversifying models to advance active learning in systematic reviews.
